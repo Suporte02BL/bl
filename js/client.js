@@ -18,7 +18,7 @@ function click(){
     }
     else{
         alert("Usuário ou senha invalida");
-        //campouser.value = "";
-        //camposenha.value = null;
+        campouser.value = "";
+        camposenha.value = null;
     }
 }
